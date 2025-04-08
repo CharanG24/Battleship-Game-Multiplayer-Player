@@ -2,7 +2,7 @@
 
 A web-based version of the classic **Battleship** game reimagined for two players on the same computer — now with real-time multiplayer support using **WebSockets**!
 
-<a href="https://github.com/CharanG24/Battleship-Game-Multiplayer-Player/blob/main/Multiplayer%20Battleship%20Game.pdf" target="_blank">Open Multiplayer Battleship Game PDF</a>
+<a href="https://github.com/CharanG24/Battleship-Game-Multiplayer-Player/blob/main/Multiplayer%20Battleship%20Game.pdf" target="_blank">Project Report</a>
 
 ---
 
