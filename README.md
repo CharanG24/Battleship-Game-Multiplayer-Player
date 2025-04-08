@@ -14,12 +14,12 @@ This project transforms the traditional single-player Battleship into a **multip
 
 ## Features
 
-- 🔁 Real-time two-player interaction
-- 🧠 Ship dragging and placement with smart grid snapping
-- 🎯 Fire tracking and hit/miss logic
-- 📡 WebSocket-based communication between players
-- ⏱️ Auto-disconnect inactive players after 10 minutes
-- 📊 Dynamic UI updates based on actions
+- Real-time two-player interaction
+- Ship dragging and placement with smart grid snapping
+- Fire tracking and hit/miss logic
+- WebSocket-based communication between players
+- Auto-disconnect inactive players after 10 minutes
+- Dynamic UI updates based on actions
 
 ---
 
