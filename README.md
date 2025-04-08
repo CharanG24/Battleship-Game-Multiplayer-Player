@@ -1,7 +1,9 @@
 # 🚢 Multiplayer Battleship Game
 
 A web-based version of the classic **Battleship** game reimagined for two players on the same computer — now with real-time multiplayer support using **WebSockets**!
-[Multiplayer Battleship Game.pdf](https://github.com/user-attachments/files/19641377/Multiplayer.Battleship.Game.pdf)
+
+<a href="https://github.com/user-attachments/files/19641377/Multiplayer.Battleship.Game.pdf" target="_blank">Open Multiplayer Battleship Game PDF</a>
+
 ---
 
 ## 🎮 About the Game
